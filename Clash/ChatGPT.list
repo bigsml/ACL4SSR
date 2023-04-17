@@ -1,4 +1,4 @@
 # Chatgpt 区域白名单
 
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-KEYWORD,openai
