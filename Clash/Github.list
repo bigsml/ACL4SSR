@@ -1,0 +1,4 @@
+# Github 区域白名单
+
+DOMAIN-SUFFIX,github.com
+DOMAIN-KEYWORD,github
