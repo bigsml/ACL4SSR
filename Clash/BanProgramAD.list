@@ -139,6 +139,9 @@ DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com
 DOMAIN-SUFFIX,practivate.adobe.com
 DOMAIN-SUFFIX,wip3.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobecces.com
+
 
 # Apple
 DOMAIN-SUFFIX,adserver.unityads.unity3d.com
