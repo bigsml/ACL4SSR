@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,bard.google.com
 #claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-KEYWORD,claude
+#others
+DOMAIN-SUFFIX,ciciai.com
